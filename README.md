@@ -1,6 +1,6 @@
-### Superstore Sales Dashboard
+#### Superstore Sales Dashboard
 
-![SuperStore Sales Dashboard](images/superstore_sales_dashboard.png)
+![SuperStore Sales Dashboard](https://github.com/Asawari-Nannaware/Superstore-sales-dashboard-PowerBO/blob/main/superstore%20sales%20dashboard.png)
 
 # Project Overview
 
